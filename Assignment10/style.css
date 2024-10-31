@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(223, 255, 80); 
+    text-align: center;
+ 
+}
+h1 {
+    color: rgb(43, 226, 214);
+
+}
+p { 
+    color: rgb(83, 0, 139);
+}
+#h1-1{
+    color: rgb(33, 11, 197);
+}
+li.list{
+    color: steelblue;
+}
